@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.diegofernando.mutationtest.DeliveryFeeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-08-27T23:52:18" hostname="diego-workstation" time="0.021">
+  <properties/>
+  <testcase name="Delivery Fee increase when the order value is equal()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.012"/>
+  <testcase name="Delivery Fee increase when the order value is minor()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery Fee equal zero()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery Fee with discount when the user promotion weight is high()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery Fee dont increase when the order value is high()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery greater than zero()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery Fee less than zero()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.0"/>
+  <testcase name="Delivery Fee with discount when the user promotion weight is equal()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <testcase name="Delivery Fee zero when the order is of the withdrawal type()" classname="dev.diegofernando.mutationtest.DeliveryFeeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

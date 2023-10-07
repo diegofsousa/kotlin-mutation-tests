@@ -1,0 +1,1 @@
+/home/diego/estudos/mutationtest/build/classes/kotlin/main/dev/diegofernando/mutationtest/DeliveryFee$Companion.class:/home/diego/estudos/mutationtest/build/classes/kotlin/main/dev/diegofernando/mutationtest/DeliveryFee.class
